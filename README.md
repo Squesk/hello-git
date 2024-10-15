@@ -1,5 +1,7 @@
 # hello-git
-## A second-level heading
-### A third-level heading
+Sample repository for learning how to use git 
+## Credits
+The repository was created during a course on PUT
 
-Przykładowe repozytorium do nauki obsługi gita
+
+
